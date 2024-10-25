@@ -14,10 +14,3 @@ async function visualizarInformacoesGlobais() {
 
 }
 visualizarInformacoesGlobais()
-
-
-
-
-
-
-
